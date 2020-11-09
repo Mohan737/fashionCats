@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/fashionCats/static/css/main.a5de3b2f.chunk.css",
+    "main.js": "/fashionCats/static/js/main.a93369e4.chunk.js",
+    "main.js.map": "/fashionCats/static/js/main.a93369e4.chunk.js.map",
+    "runtime-main.js": "/fashionCats/static/js/runtime-main.2d7de6c5.js",
+    "runtime-main.js.map": "/fashionCats/static/js/runtime-main.2d7de6c5.js.map",
+    "static/css/2.31461e4f.chunk.css": "/fashionCats/static/css/2.31461e4f.chunk.css",
+    "static/js/2.e697eff3.chunk.js": "/fashionCats/static/js/2.e697eff3.chunk.js",
+    "static/js/2.e697eff3.chunk.js.map": "/fashionCats/static/js/2.e697eff3.chunk.js.map",
+    "static/js/3.9a5dd2c0.chunk.js": "/fashionCats/static/js/3.9a5dd2c0.chunk.js",
+    "static/js/3.9a5dd2c0.chunk.js.map": "/fashionCats/static/js/3.9a5dd2c0.chunk.js.map",
+    "index.html": "/fashionCats/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/fashionCats/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.a5de3b2f.chunk.css.map": "/fashionCats/static/css/main.a5de3b2f.chunk.css.map",
+    "static/js/2.e697eff3.chunk.js.LICENSE.txt": "/fashionCats/static/js/2.e697eff3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/fashionCats/static/media/StayandshineRegular-w1gJ6.5dad4790.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d7de6c5.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.e697eff3.chunk.js",
+    "static/css/main.a5de3b2f.chunk.css",
+    "static/js/main.a93369e4.chunk.js"
+  ]
+}
